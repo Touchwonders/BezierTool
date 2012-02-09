@@ -1,0 +1,6 @@
+/**
+  * README FILE FOR TOUCHWONDERS BEZIERTOOL
+  * http://www.touchwonders.com
+  *
+  */
+This is a small application created in Processing (www.processing.org) to simplify the making of custom CAMediaTimingFunctions used in Core Animation. It provides a simple graphical interface in which the user creates a bezier curve by dragging it's two control points. The generated method call can be copied to the clipboard by pressing the letter 'c'.
